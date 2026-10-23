@@ -10,7 +10,7 @@
 | CWE | CWE-79 (Improper Neutralization of Input During Web Page Generation) |
 | Affected | accounts (identity), transactional emails |
 | Fixed | commits `c97e9fe`, `db42dbb` in ordnary-com/identity; console billing emails still to commit |
-| Reward | none: Ordnary Web Services credit is not available yet |
+| Reward | free one-year Amelu plan, offered in our reply |
 
 ## Report
 
