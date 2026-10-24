@@ -4,13 +4,13 @@
 |---|---|
 | Status | Fixed |
 | Reported | 2026-10-23 |
-| Reporter | <name or handle> (contact: <email>) |
-| Credit | pending, asked in our reply |
+| Reporter | Ganesh RK ([LinkedIn](https://www.linkedin.com/in/ganesh-rk-6b827828a/)) |
+| Credit | Listed in the Hall of Fame as Ganesh RK, with his permission |
 | Severity | Low |
 | CWE | CWE-79 (Improper Neutralization of Input During Web Page Generation) |
 | Affected | accounts (identity), transactional emails |
 | Fixed | commits `c97e9fe`, `db42dbb` in ordnary-com/identity; live 2026-10-23 (accounts `7c4f384d`, containers `885bbb98`) |
-| Reward | free one-year Amelu plan, offered in our reply |
+| Reward | free one-year Amelu plan, accepted 2026-10-24 (not yet set up) |
 
 ## Report
 
@@ -45,5 +45,5 @@ emails sent to a parent, which carried the child's display name raw.
 
 - 2026-10-23: report received, confirmed, fixed in code
 - 2026-10-23: fix live in production
-- YYYY-MM-DD: reply sent
-- YYYY-MM-DD: researcher listed in the Hall of Fame (if they agree)
+- 2026-10-24: researcher accepted the Amelu plan and the Hall of Fame listing
+- 2026-10-24: listed in the Hall of Fame

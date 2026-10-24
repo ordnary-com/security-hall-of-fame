@@ -11,9 +11,7 @@ they chose, once the issue has been fixed.
 
 | Date reported | Researcher | Issue | Severity |
 |---------------|------------|-------|----------|
-| | | | |
-
-_No researchers listed yet._
+| 2026-10-23 | [Ganesh RK](https://www.linkedin.com/in/ganesh-rk-6b827828a/) | HTML injection through the name into account emails | Low |
 
 ## Reporting an issue
 
