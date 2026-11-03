@@ -11,6 +11,7 @@ they chose, once the issue has been fixed.
 
 | Date reported | Researcher | Issue | Severity |
 |---------------|------------|-------|----------|
+| 2026-11-02 | [Radhouen Boufateh](https://www.linkedin.com/in/radhouen-boufateh-57026129a) | Crash of the Amelu API through mailbox creation errors | Critical |
 | 2026-10-23 | [Ganesh RK](https://www.linkedin.com/in/ganesh-rk-6b827828a/) | HTML injection through the name into account emails | Low |
 
 ## Reporting an issue
